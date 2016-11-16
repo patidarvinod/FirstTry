@@ -2,7 +2,7 @@
 
 int main()
 {
-
+printf("\nVindo\n");
 
 
 return 0;
