@@ -3,8 +3,8 @@
 int main()
 {
 
-printf("\nPatidar\n");
-printf("\nfor branch\n");
+printf("\nMaster\n");
+
 return 0;
 }
 
